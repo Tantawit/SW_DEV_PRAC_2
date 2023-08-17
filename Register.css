@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+.nav-bar {
+  background-color: rgb(22, 22, 22);
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.nav-item {
+  margin: 0px 30px;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-input {
+  margin: 10px;
+  max-width: 300px;
+}
+
+.form-container {
+  margin: 30px 50px;
+}
+
+.form-button {
+  max-width: 320px;
+}
